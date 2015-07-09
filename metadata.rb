@@ -1,0 +1,7 @@
+name             'vagrant'
+maintainer       'Target Corporation'
+maintainer_email 'Jerry.Anderson@Target.com'
+license          'All rights reserved'
+description      'Installs/Configures vagrant'
+long_description 'Installs/Configures vagrant'
+version          '0.1.0'
